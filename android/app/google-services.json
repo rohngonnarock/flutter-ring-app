@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "477709105532",
+    "firebase_url": "https://ringtoneapp.firebaseio.com",
+    "project_id": "project-6842434838450072425",
+    "storage_bucket": "project-6842434838450072425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477709105532:android:26b2e9a0a1d98990",
+        "android_client_info": {
+          "package_name": "com.example.ringapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477709105532-1ib87olhvtt13utc7ancleu4ui7v5ac4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARqOPo-YnAkmw8GmUcajQR8i-BZX19lDc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
